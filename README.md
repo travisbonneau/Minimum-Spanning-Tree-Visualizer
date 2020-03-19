@@ -1,1 +1,1 @@
-# Minimum-Spanning-Tree-Visualizer
+# Minimum Spanning Tree Visualizer
